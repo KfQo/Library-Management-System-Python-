@@ -38,19 +38,7 @@ It is ideal for educational use, beginner–intermediate Python developers, and 
 
 ## 📂 Project Structure
 
-python-library-system/
-│
-├─ library/
-│ ├─ init.py
-│ ├─ models.py # Data models (Book, Member)
-│ ├─ storage.py # JSON storage handler
-│ ├─ service.py # Main library logic
-│ └─ cli.py # Command Line Interface
-│
-├─ main.py # Program entry point
-├─ data.json # Auto-created data file
-├─ requirements.txt
-└─ README.md
+
 ---
 
 ## 🛠 Installation
